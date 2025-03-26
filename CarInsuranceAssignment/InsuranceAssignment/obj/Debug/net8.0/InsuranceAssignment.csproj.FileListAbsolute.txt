@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\bin\Debug\net8.0\InsuranceAssignment.exe
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\bin\Debug\net8.0\InsuranceAssignment.deps.json
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\bin\Debug\net8.0\InsuranceAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\bin\Debug\net8.0\InsuranceAssignment.dll
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\bin\Debug\net8.0\InsuranceAssignment.pdb
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.dll
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\refint\InsuranceAssignment.dll
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.pdb
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\InsuranceAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\InsuranceAssignment\InsuranceAssignment\obj\Debug\net8.0\ref\InsuranceAssignment.dll
