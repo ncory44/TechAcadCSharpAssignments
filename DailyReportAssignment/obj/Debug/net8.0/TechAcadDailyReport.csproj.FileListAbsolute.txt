@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\bin\Debug\net8.0\TechAcadDailyReport.exe
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\bin\Debug\net8.0\TechAcadDailyReport.deps.json
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\bin\Debug\net8.0\TechAcadDailyReport.runtimeconfig.json
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\bin\Debug\net8.0\TechAcadDailyReport.dll
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\bin\Debug\net8.0\TechAcadDailyReport.pdb
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.AssemblyInfo.cs
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.dll
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\refint\TechAcadDailyReport.dll
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.pdb
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\TechAcadDailyReport.genruntimeconfig.cache
+C:\Users\ncory\source\repos\TechAcadDailyReport\TechAcadDailyReport\obj\Debug\net8.0\ref\TechAcadDailyReport.dll
