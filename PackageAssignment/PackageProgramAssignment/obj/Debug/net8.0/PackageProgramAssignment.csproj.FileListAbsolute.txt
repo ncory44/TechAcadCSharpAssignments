@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\bin\Debug\net8.0\PackageProgramAssignment.exe
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\bin\Debug\net8.0\PackageProgramAssignment.deps.json
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\bin\Debug\net8.0\PackageProgramAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\bin\Debug\net8.0\PackageProgramAssignment.dll
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\bin\Debug\net8.0\PackageProgramAssignment.pdb
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.dll
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\refint\PackageProgramAssignment.dll
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.pdb
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\PackageProgramAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\PackageProgramAssignment\PackageProgramAssignment\obj\Debug\net8.0\ref\PackageProgramAssignment.dll
