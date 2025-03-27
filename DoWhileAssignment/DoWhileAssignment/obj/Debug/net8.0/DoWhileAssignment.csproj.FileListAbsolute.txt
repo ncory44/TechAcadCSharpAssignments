@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\bin\Debug\net8.0\DoWhileAssignment.exe
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\bin\Debug\net8.0\DoWhileAssignment.deps.json
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\bin\Debug\net8.0\DoWhileAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\bin\Debug\net8.0\DoWhileAssignment.dll
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\bin\Debug\net8.0\DoWhileAssignment.pdb
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.dll
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\refint\DoWhileAssignment.dll
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.pdb
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\DoWhileAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\DoWhileAssignment\DoWhileAssignment\obj\Debug\net8.0\ref\DoWhileAssignment.dll
