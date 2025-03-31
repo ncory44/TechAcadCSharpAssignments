@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         //string array
-        string[] dogBreeds = [ "Shiba-Inu", "German Shepard", "Lab", "Blue Heeler", "Poodle"];
-        Console.WriteLine("Select an index (0-4) to view a dog breed: ")
+        string[] dogBreeds = { "Shiba-Inu", "German Shepard", "Lab", "Blue Heeler", "Poodle" };
+        Console.WriteLine("Select an index (0-4) to view a dog breed: ");
 
         int index1 = Convert.ToInt32(Console.ReadLine());
 
@@ -45,10 +45,10 @@ class Program
 
         int index3 = Convert.ToInt32(Console.ReadLine());
 
-        if (index3 >= 0 && index3 < animals.Count)
-        [
+        if (index3 >= 0 && index3 < instruments.Count)
+        {
             Console.WriteLine("You selected: " + instruments[index3]);
-        ]
+        }
         else
         {
             Console.WriteLine("That index doesn't exist in the instrument list!");
