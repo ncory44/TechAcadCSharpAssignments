@@ -54,6 +54,6 @@ class Program
             Console.WriteLine("That index doesn't exist in the instrument list!");
         }
 
-        Console.WriteLine("\nThanks for using the viewer app :)")
+        Console.WriteLine("\nThanks for using the viewer app :)");
     }
 }
