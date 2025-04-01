@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\bin\Debug\net8.0\ConsoleApp6ptAssignment.exe
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\bin\Debug\net8.0\ConsoleApp6ptAssignment.deps.json
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\bin\Debug\net8.0\ConsoleApp6ptAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\bin\Debug\net8.0\ConsoleApp6ptAssignment.dll
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\bin\Debug\net8.0\ConsoleApp6ptAssignment.pdb
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.dll
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\refint\ConsoleApp6ptAssignment.dll
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.pdb
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ConsoleApp6ptAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\ConsoleApp6ptAssignment\ConsoleApp6ptAssignment\obj\Debug\net8.0\ref\ConsoleApp6ptAssignment.dll
