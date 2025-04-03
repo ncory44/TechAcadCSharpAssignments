@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.exe
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.deps.json
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.dll
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.pdb
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.dll
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\refint\CallingMethodsAssignment.dll
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.pdb
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\ref\CallingMethodsAssignment.dll
