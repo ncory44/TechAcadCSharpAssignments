@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.exe
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.deps.json
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.dll
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.pdb
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.dll
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\refint\MethodAssignment.dll
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.pdb
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\MethodAssignment\MethodAssignment\obj\Debug\net8.0\ref\MethodAssignment.dll
