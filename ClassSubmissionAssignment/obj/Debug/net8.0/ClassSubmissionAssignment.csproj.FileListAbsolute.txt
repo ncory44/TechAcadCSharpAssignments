@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\net8.0\ClassSubmissionAssignment.exe
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\net8.0\ClassSubmissionAssignment.deps.json
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\net8.0\ClassSubmissionAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\net8.0\ClassSubmissionAssignment.dll
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\net8.0\ClassSubmissionAssignment.pdb
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.dll
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\refint\ClassSubmissionAssignment.dll
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.pdb
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ClassSubmissionAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\net8.0\ref\ClassSubmissionAssignment.dll
