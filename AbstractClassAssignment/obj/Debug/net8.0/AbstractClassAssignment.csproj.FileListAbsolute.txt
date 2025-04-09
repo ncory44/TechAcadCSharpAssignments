@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.exe
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.deps.json
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.dll
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.pdb
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.dll
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\refint\AbstractClassAssignment.dll
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.pdb
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\ref\AbstractClassAssignment.dll
